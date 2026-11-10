@@ -410,7 +410,7 @@ def make_story(s: dict[str, ParagraphStyle]):
         Paragraph("[4] Streamlit, <link href=\"https://docs.streamlit.io/develop/api-reference/widgets/st.file_uploader\" color=\"#1C5B7A\">file uploader</link> and <link href=\"https://docs.streamlit.io/develop/api-reference/caching-and-state/st.cache_resource\" color=\"#1C5B7A\">resource caching</link> documentation, accessed 10 November 2026.", s["reference"]),
         Paragraph("[5] Sample images are from Wikimedia Commons. Each contributor released the corresponding image under <link href=\"https://creativecommons.org/publicdomain/zero/1.0/\" color=\"#1C5B7A\">CC0 1.0</link>. File pages: <link href=\"https://commons.wikimedia.org/wiki/File:Dog_park.jpg\" color=\"#1C5B7A\">dog park</link>, <link href=\"https://commons.wikimedia.org/wiki/File:Gato_dom%C3%A9stico_(Felis_silvestris_catus).jpg\" color=\"#1C5B7A\">cat</link>, and <link href=\"https://commons.wikimedia.org/wiki/File:A_shared_bicycle_in_the_grass.jpg\" color=\"#1C5B7A\">bicycle</link>. Contributor names are listed in the sample-image credits.", s["reference"]),
         Spacer(1, 4),
-        Paragraph("GitHub repository URL: To be added after the group publishes the repository.", s["body_small"]),
+        Paragraph("GitHub repository URL: <link href=\"https://github.com/ayushman2005-bit/mllp-topic-16-image-caption-generator\" color=\"#1C5B7A\">https://github.com/ayushman2005-bit/mllp-topic-16-image-caption-generator</link> (private repository; add the instructor before submission).", s["body_small"]),
     ]
     return story
 

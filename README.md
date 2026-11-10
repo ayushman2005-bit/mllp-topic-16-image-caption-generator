@@ -78,7 +78,7 @@ The app accepts files up to 10 MB and 25 megapixels. It does not write uploaded 
 - `output/presentation/` — editable presentation slides and recording script
 - `output/video/` — presentation demonstration recording
 
-The project report and presentation are included. Before submission, the group still needs to add actual contribution statements, record the video, and publish/share the GitHub repository with the instructor as required.
+The project report, presentation, and private GitHub repository are prepared. Before submission, the group still needs to add actual contribution statements, give the instructor access to the private repository, and record the video.
 
 ## Model and tools
 
@@ -110,4 +110,4 @@ The report and [`docs/RESULTS.md`](docs/RESULTS.md) list the generated captions 
 
 ## Repository URL
 
-Create the repository under `ayushman2005-bit` and add its URL here after the group confirms visibility and publishes it. The current working copy is ready locally.
+Private repository: [ayushman2005-bit/mllp-topic-16-image-caption-generator](https://github.com/ayushman2005-bit/mllp-topic-16-image-caption-generator)

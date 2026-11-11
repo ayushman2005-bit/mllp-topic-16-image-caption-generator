@@ -6,10 +6,10 @@ A local Streamlit app that accepts a JPG, PNG, or WebP image and generates a sho
 
 | Member | Roll number | Contribution |
 |---|---|---|
-| Shourya Basu | 2330400-Basu | To be added by the group |
-| Manit Kumar Sahu | 2430605-Manit | To be added by the group |
-| Ayushman Mahapatra | 2330020-Ayushman | To be added by the group |
-| Shrutik Sinha | 2330404-Shrutik | To be added by the group |
+| Shourya Basu | 2330400 | To be added by the group |
+| Manit Kumar Sahu | 2430605 | To be added by the group |
+| Ayushman Mahapatra | 2330020 | To be added by the group |
+| Shrutik Sinha | 2330404 | To be added by the group |
 
 **Before submitting:** fill in each member's actual contribution in this table and in `docs/GROUP_DETAILS.md`.
 
